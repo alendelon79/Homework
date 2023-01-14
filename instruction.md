@@ -26,5 +26,7 @@
 
 ![фото Аргентины](C:\Users\user\Desktop\GeekBrains/Аргентина.jpeg)
 
+[Дока](https://doka.guide "Энциклопедия про web-dev")
+
 
 
