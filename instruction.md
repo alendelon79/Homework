@@ -28,5 +28,7 @@
 
 [Дока](https://doka.guide "Энциклопедия про web-dev")
 
+![фото Аргентины](C:\Users\user\Desktop\GeekBrains\Seminar/Аргентина.jpeg)
+
 
 
